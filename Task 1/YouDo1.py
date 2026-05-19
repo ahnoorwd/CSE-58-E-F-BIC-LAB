@@ -1,5 +1,4 @@
 
-name = input("what is your favourite color ")
+name = input("Enter your name: ")
 
-
-print("Your favorite color is [" + name + "]")
+print(f"Hello, {name}!")
